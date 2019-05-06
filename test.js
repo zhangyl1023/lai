@@ -1,0 +1,3 @@
+function miao() {
+    alert('miao');
+}
