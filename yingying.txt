@@ -9,4 +9,6 @@ i am  a bird
 6666666666666
 7777777777777777777777
 88888888888
+
+public function a(){}
 public function b(){}
